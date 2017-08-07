@@ -19,5 +19,6 @@ __pycache__/
 calories.py
 moviecollection.py
 wheresmyinternet.py
-supercomputer.py
 basicinterpreter.py
+vegetables.py
+setstack.py
