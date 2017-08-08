@@ -1,13 +1,11 @@
 *.txt
 tmp*
-anagram_counting.py
-incognito.py
+tautology.py
 modular_arithmetic.py
 polish.py
 reversing_roads.py
 secret_santa.py
 triangle_ornaments.py
-splat.py
 prime_sieve.py
 kattis*
 time_travelling_temperatures.py
@@ -21,4 +19,5 @@ moviecollection.py
 wheresmyinternet.py
 basicinterpreter.py
 vegetables.py
-setstack.py
+countingstars.py
+evenodd.py
