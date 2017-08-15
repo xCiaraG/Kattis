@@ -1,5 +1,16 @@
 *.txt
 tmp*
+compiler.py
+ones.py
+checkingforcorrectness.py
+coast.py
+moneymatters.py
+virtualfriends.py
+wheresmyinternet.py
+bst.py
+unionfind.py
+almostunionfind.py
+grid.py
 tautology.py
 modular_arithmetic.py
 polish.py
@@ -8,7 +19,6 @@ secret_santa.py
 triangle_ornaments.py
 prime_sieve.py
 kattis*
-time_travelling_temperatures.py
 string.py
 hidingplaces.py
 flipfive.py
@@ -16,7 +26,6 @@ dream.py
 __pycache__/
 calories.py
 moviecollection.py
-wheresmyinternet.py
 basicinterpreter.py
 vegetables.py
 countingstars.py
