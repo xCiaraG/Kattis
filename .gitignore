@@ -1,5 +1,7 @@
 *.txt
 tmp*
+ith.py
+automatictrading.py
 compiler.py
 ones.py
 checkingforcorrectness.py
