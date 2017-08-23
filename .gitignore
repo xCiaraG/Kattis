@@ -1,5 +1,6 @@
 *.txt
 tmp*
+smallestmultiple.py
 ith.py
 automatictrading.py
 compiler.py
