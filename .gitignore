@@ -1,5 +1,7 @@
 *.txt
 tmp*
+*.pyc
+bigtruck.py
 smallestmultiple.py
 ith.py
 automatictrading.py
