@@ -1,6 +1,7 @@
 *.txt
 tmp*
 *.pyc
+stringmatching.py
 bigtruck.py
 smallestmultiple.py
 ith.py
@@ -32,5 +33,4 @@ calories.py
 moviecollection.py
 basicinterpreter.py
 vegetables.py
-countingstars.py
 evenodd.py
