@@ -1,9 +1,10 @@
 *.txt
 tmp*
 *.pyc
+palindromesubstring.py
+bank.py
 stringmatching.py
 bigtruck.py
-smallestmultiple.py
 ith.py
 automatictrading.py
 compiler.py
