@@ -1,6 +1,9 @@
 *.txt
 tmp*
 *.pyc
+bard.py
+rot.py
+lcmpairsum.py
 palindromesubstring.py
 bank.py
 stringmatching.py
