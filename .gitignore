@@ -1,6 +1,14 @@
 *.txt
 tmp*
 *.pyc
+bobby.py
+cross.py
+prime_test.py
+prime_test2.py
+primereduction.py
+primesieve.py
+primes.py
+ultraquicksort.py
 bard.py
 rot.py
 lcmpairsum.py
