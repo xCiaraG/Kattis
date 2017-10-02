@@ -1,16 +1,16 @@
-import sys
-numbers = list(map(int, sys.stdin.readline().strip().split()))
+from sys import stdin
+n, m = [int(x) for x in stdin.readline().split()]
 d = {}
-for i in range(0, numbers[0]):
-    line = sys.stdin.readline().strip().split()
-    d[line[0]] = int(line[1])
+for i in range(0, n):
+    job, salary = stdin.readline().split()
+    d[job] = int(salary)
 
-for i in range(0, numbers[1]):
-    line = sys.stdin.readline().strip().split()
+for i in range(0, m):
+    line = stdin.readline().split()
     count = 0
     while line != ["."]:
         for word in line:
             if word in d:
                 count += d[word]
-        line = sys.stdin.readline().strip().split()
+        line = stdin.readline().split()
     print(count)

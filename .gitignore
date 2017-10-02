@@ -1,6 +1,7 @@
 *.txt
 tmp*
 *.pyc
+allaboutthatbase.py
 bobby.py
 cross.py
 prime_test.py
