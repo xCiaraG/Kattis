@@ -1,6 +1,7 @@
 *.txt
 tmp*
 *.pyc
+teacherevaluation.py
 allaboutthatbase.py
 bobby.py
 cross.py
