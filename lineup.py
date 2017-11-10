@@ -1,4 +1,4 @@
-mport sys
+import sys
 n = int(sys.stdin.readline().strip())
 names = []
 for i in range(0, n):
