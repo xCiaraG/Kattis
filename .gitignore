@@ -1,6 +1,11 @@
 *.txt
 tmp*
 *.pyc
+convexhull.py
+distinctivecharacter.py
+outing.py
+horrorfilmnight.py
+turtlemaster.py
 teacherevaluation.py
 allaboutthatbase.py
 bobby.py
