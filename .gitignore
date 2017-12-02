@@ -1,10 +1,10 @@
 *.txt
 tmp*
 *.pyc
+enviousexponents.py
 convexhull.py
 distinctivecharacter.py
 outing.py
-horrorfilmnight.py
 turtlemaster.py
 teacherevaluation.py
 allaboutthatbase.py
