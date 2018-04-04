@@ -82,3 +82,4 @@ else:
 for line in new_numbers:
     line = list(map(str, line))
     print(" ".join(line))
+    
